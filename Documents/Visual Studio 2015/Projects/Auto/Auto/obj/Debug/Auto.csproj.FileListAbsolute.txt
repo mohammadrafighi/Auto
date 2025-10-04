@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Auto\Auto\bin\Debug\Auto.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Auto\Auto\bin\Debug\Auto.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Auto\Auto\bin\Debug\Auto.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Auto\Auto\obj\Debug\Auto.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Auto\Auto\obj\Debug\Auto.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Auto\Auto\obj\Debug\Auto.pdb
