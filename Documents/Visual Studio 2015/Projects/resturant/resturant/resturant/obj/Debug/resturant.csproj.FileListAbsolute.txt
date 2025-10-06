@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\resturant\resturant\resturant\bin\Debug\resturant.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\resturant\resturant\resturant\bin\Debug\resturant.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\resturant\resturant\resturant\bin\Debug\resturant.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\resturant\resturant\resturant\obj\Debug\resturant.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\resturant\resturant\resturant\obj\Debug\resturant.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\resturant\resturant\resturant\obj\Debug\resturant.pdb
+C:\Users\user\Desktop\resturant\resturant\bin\Debug\resturant.exe.config
+C:\Users\user\Desktop\resturant\resturant\obj\Debug\resturant.exe
+C:\Users\user\Desktop\resturant\resturant\obj\Debug\resturant.pdb
